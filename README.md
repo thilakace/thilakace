@@ -1,12 +1,18 @@
 - 👋 Hi, I’m Thilagaraja sekar
 
-- With over 11 years of experience in the IT industry, I specialize in architecting and delivering complex enterprise solutions. Currently, as a Technical Lead at 4i Apps Solutions, I lead the development of high-scale HRMS and Payroll suites using Node.js, TypeScript, and React within Microservices and Event-Driven environments.
-- Beyond coding, I am a dedicated mentor. I believe in bridging the gap between academic learning and industry requirements. My goal is to empower the next generation of engineers by sharing real-world architectural insights and project-based training.
-- 💞️ I’m looking to collaborate on full stack development
-- 📫 How to reach me 9790601088 | thilakazb@gmail.com
- 
+Technical Lead & Full-Stack Architect with 11+ years building secure, high-performance web applications and AI-driven systems. I specialize in taking products from architecture to production — designing scalable, multi-tenant SaaS platforms, leading migrations to microservices, and integrating Generative AI (RAG/LLM) into real products.
 
-<!---
-thilakace/thilakace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I bring:
+🔹 Full-Stack Leadership — React + Vite, Node.js, TypeScript, PHP; BFF, REST APIs, clean architecture.
+🔹 AI & Generative AI — Production RAG with LangChain + pgvector, LLM integrations (OpenAI, Gemini, Claude), semantic search. I build AI that ships, not just demos.
+🔹 Scalable Architecture — Microservices, Event-Driven (AWS Lambda + SQS), Temporal, BullMQ, multi-tenant SaaS.
+🔹 Cloud & Data — AWS, PostgreSQL + pgvector, Prisma, Redis, MinIO, Keycloak.
+
+Selected impact:
+• Event-driven payroll pipeline → 3x throughput, zero gateway timeouts
+• RAG assistant (LangChain + pgvector) → cut HR queries 45%
+• Indian statutory payroll (PF/ESI/PT/TDS) for 8,000+ employees
+• Drag-and-drop form-builder → 60% fewer UI dev tickets
+• Mentored 5+ engineers in AWS serverless
+
+I lead by shipping value while keeping code maintainable, tested, and built to last.
